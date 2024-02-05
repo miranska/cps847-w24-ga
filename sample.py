@@ -18,4 +18,3 @@ def increment_by_three(var_to_increment):
     :return: incremented variable
     """
     return var_to_increment + 3
-
